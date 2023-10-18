@@ -1,4 +1,4 @@
-Batch,Process,Equipment,Start,End
+Batch,Process,Equipment,Start_Time,End_Time
 1,a,R-1107,2021-01-09 11:00,2021-01-09 19:02
 1,b,R-1107,2021-01-09 19:02,2021-01-10 09:03
 2,a,R-1108,2021-01-10 13:30,2021-01-10 21:35
