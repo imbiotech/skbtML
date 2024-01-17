@@ -1,0 +1,66 @@
+﻿  0000100041                                                BOM-RECIPE                                                                                                                          
+  0000100042                                                Campaign-ORDER                                                                                                                      
+  0000100043                                                TRANSFER                                                                                                                            
+  0000100044                                                PERFORMANCE                                                                                                                         
+  0000100045                                                Purchase                                                                                                                            
+TR0004200065ZCOR0010                                        Operational budget performance analysis(예산 조회)                     
+
+TR0000100023MM03                                            Display Material(단일 물질 정보)                                                                             0CC47AD381A61ED7BDB52F1E18D7B098
+TR0000100034ZPPR0011                                        Material Master Detail List(물질 리스트)                                                                 0CC47AD381A61EE88A9D95C37360142A
+TR0004100017ZPPC0020                                        BOM Upload(BOM 업로드)                                                                                 0CC47AD381A61EE883ABF4FA2A0C7B39
+TR0004100005CS02                                            BOM Change(BOM 변경)                                                                                  0CC47AD381A61EE883ABF4FA2A0CBB39
+TR0004100002ZPPR0020                                        BOM Detail List(BOM 조회)                                                                            0CC47AD381A61EE883ABF4FA2A0C5B39
+TR0004100009C201                                            Recipe Create(레시피 생성)                                                                               0CC47AD381A61EE883AC00C2CBFE5B67
+TR0004100008ZPPC0040                                        Receipe Upload(레시피 업로드)                                                                             0CC47AD381A61EE883AC00C2CBFE3B67
+TR0004100010C202                                            Recipe Change(레시피 변경)                                                                               0CC47AD381A61EE883AC00C2CBFE7B67
+TR0004100007ZPPR0040                                        RECIPE Detail List(레시피 조회)                                                                         0CC47AD381A61EE883AC00C2CBFE1B67
+TR0004100011C223                                            Production Versions(생산 버전 생성)                                                                       0CC47AD381A61EE883AC03A6D9F29B6F
+TR0004100068ZPPC0050                                        Production Version Upload (생산 버전 업로드)                                                               0CC47AD381A61EE883AC03A6D9F2BB6F
+                                                                  
+TR0004200012ZPPC0130                                        Campaign Creation(캠페인 품의 생성)                                                                        0CC47AD381A61EE883AC146668B05BD2
+TR0004200013ZPPC0130D                                       Campaign List(캠페인 품의 조회)                                                                           0CC47AD381A61EE88CFD748D67739D1B
+TR0004200030MD11                                            Planed Order Create(계획 오더 생성)                                                                       0CC47AD381A61EE883AC0D9BE596DBA7
+TR0004200031MD12                                            Planed Order Change(계획 오더 변경)                                                                       0CC47AD381A61EE883AC0D9BE596FBA7
+TR0004200061MD16                                            Collective Display of Planned Orders(계획 오더 삭제)                                                                                      
+TR0004200036MD13                                            Plaaned Order Display(계획 오더 조회)                                                                    0CC47AD381A61EE883AC0D9BE5971BA7
+TR0004200014ZPPC0150                                        Process Order Creation-Collective(생산 오더 생성)                                                         0CC47AD381A61EE883AC15B2EE39DBD6
+TR0004200015ZPPC0150D                                       Process Order List(생산 오더 조회)                                                                       0CC47AD381A61EE88CFD766D00F11D1B
+TR0004200064ZPPC0190                                        W/O GR Process Order Creation(연속 오더 생성)                                                             0CC47AD381A61ED88BAE5DBDB77A065A
+TR0004200038COR1                                            Process Order Create(단일 생산 오더 생성)                                                                   0CC47AD381A61EE883AC15B2EE3A1BD6
+TR0004200039COR2                                            Process Order Change(단일 생산 오더 변경)                                                                   0CC47AD381A61EE883AC15B2EE3A3BD6
+TR0004200040COR3                                            Process Order Display(단일 생산 오더 조회)                                                                  0CC47AD381A61EE883AC15B2EE3A5BD6
+TR0004200033ZPPR0320                                        Campaign-Process Order(BR) list(BR 리스트 조회)                                                                                             
+TR0004200020ZPPC0160                                        Cleaning Order Creation(CP/CV 세척 오더 생성)                                                                      0CC47AD381A61EE888D4D563FEA65696
+TR0004300016ZMMR0060                                        Material Reservation Create/Change(원료 출고)                                                            0CC47AD381A61EE883AC15B2EE39FBD6
+TR0004300024ZMMR0070                                        Reservation - Other G/I, Transfer(기타 출고)                                                            0CC47AD381A61EE883AC19023AF23BD9
+TR0004300025ME21N                                           Create Purchase Order(공장간 재고 이동)                                                                    0CC47AD381A61ED7BDB547C8125C9107
+TR0004300026ZMMI0040                                        Other Goods issue approval request(기타 출고/공장간 재고 이동 승인 요청)                                           0CC47AD381A61ED7BDB5512A301F1117
+TR0004300027ZMMI0041                                        Other Goods issue approval(기타 출고/공장간 재고 이동 승인)                                                      0CC47AD381A61ED7BDB5512A301F3117
+TR0004300021ZPPC0180                                        Repacking Order Creation(소분/재포장 오더 생성)                                                                 0CC47AD381A61EE888D4D563FEA67696
+TR0004300022ZMMR0061                                        Repacking.Ord Create Transfer(소분/재포장 출고)                                                            0CC47AD381A61ED8969A4EA1A9645F65
+TR0004400066ZSDR0260                                        Sales Profit Analysis Report(연간 매출 보고서)                                                                                                 
+TR0004400018ZPPR0230                                        Operation Activity Time by Campaign(공정 시간 관리)                                                       0CC47AD381A61ED88CF5AE9A0ACC5C93
+TR0004400032ZPPR0190                                        Production Yield Report(생산 수율 조회)                                                                   0CC47AD381A61EE88FD7139CF2B04E9D
+TR0004400028ZPPR0150                                        Material Consumption Report by Campaign(캠페인별 원료 사용량)                                               0CC47AD381A61EE883AC1BE96D22BBDC
+TR0004400029ZPPR0140                                        Material Consumption Report by Proc.Order(오더별 원료 사용량)                                              0CC47AD381A61EE883AC1BE96D229BDC
+TR0004400037ZPPR0370                                        [KR]Overall Material Balance(총 MB)                                                                        0CC47AD381A61EDA94F12DA9E79588F2
+TR0004400067ZPPR0390                                        Cleaning Order List(세척 오더 조회)                                                                                                         
+TR0004400019COR2                                            Process Order Change(TECO)                                                                          0CC47AD381A61EE883AC15B2EE3A3BD6
+TR0004400035CKM3N                                           Material Price Analysis(가격 조회)                                                                                                      
+  0004500058                                                WBS&AFE                                                                                                                             
+  0004500053                                                Order                                                                                                                               
+  0004500052                                                In-site                                                                                                                             
+  0004500054                                                Fixst Asset                                                                                                                         
+TR0005200050ZPMIGO                                          [BTMM]MIGO에서 Good Movement 후 ebid 전송(물품 수령 통보서 작성)                                                                                  
+TR0005200051ZPJ037                                          [BTMM]승인 요청 조회 및 전송(GR/SES)(물품 수령 통보서 결재 요청)                                                                                         
+TR0005300046ME51N                                           Create Purchase Requisition                                                                                                         
+TR0005300047ME52N                                           Change Purchase Requisition                                                                                                         
+TR0005300062ME53N                                           Display Purchase Requisition                                                                        0CC47AD381A61ED7BDB540CCAA6650D8
+TR0005300048ZPJ032                                          [BTMM]Purchase Requisition Approval                                                                                                 
+TR0005300049ZBC110                                          전자결재 현황조회(BP)                                                                                                                       
+TR0005400055AS01                                            Create Asset Master Record(고정 자산 마스터 생성)                                                                                             
+TR0005400063AS03                                            Dispay Asset Master(고정 자산 마스터 조회)                                                                    0CC47AD381A61EE8838D041EF7B56B34
+TR0005400056ZFIM4010                                        (관리 번호 생성)                                                                                                                           
+TR0005400057ZFIM4011                                        (관리 번호 수정 & 자산 취득 결재 요청)                                                                                                             
+TR0005800059IMA11                                           Individual Processing(WBS Code 생성, AFE Code 생성)                                                                                     
+TR0005800060ZBC110                                          (WBS 승인 상태 조회, AFE 승인 요청)                                                                                                            
